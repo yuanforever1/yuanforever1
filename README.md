@@ -2,16 +2,6 @@
 <h3 align="center">Computer Science Student @ Beijing University of Posts and Telecommunications (BUPT)</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yuanforever1&label=Profile%20views&color=0e75b6&style=flat" alt="yuanforever1" />
-  <a href="https://github.com/yuanforever1?tab=followers">
-    <img src="https://img.shields.io/github/followers/yuanforever1?label=Followers&style=social" alt="Followers" />
-  </a>
-  <a href="https://github.com/yuanforever1?tab=repositories">
-    <img src="https://img.shields.io/github/stars/yuanforever1?style=social" alt="Stars" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/yuanforever1">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF5&center=true&vCenter=true&width=500&lines=CS+Junior+Student;AI+%26+NLP+Enthusiast;Prompt+Engineering+Explorer" alt="Typing SVG" />
   </a>
@@ -63,4 +53,16 @@ I am a junior student majoring in **Computer Science and Technology** at **Beiji
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yuanforever1&show_icons=true&theme=radical" alt="yuanforever1's GitHub stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanforever1&layout=compact&theme=radical" alt="Top Langs" width="48%" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yuanforever1&label=Profile%20views&color=0e75b6&style=flat" alt="yuanforever1" />
+  <a href="https://github.com/yuanforever1?tab=followers">
+    <img src="https://img.shields.io/github/followers/yuanforever1?label=Followers&style=social" alt="Followers" />
+  </a>
+  <a href="https://github.com/yuanforever1?tab=repositories">
+    <img src="https://img.shields.io/github/stars/yuanforever1?style=social" alt="Stars" />
+  </a>
 </p>
